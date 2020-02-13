@@ -10,12 +10,11 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.Keyboard
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException;
 import org.xml.sax.SAXException;
-
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-//comment
+
 public class AlphaBot extends TelegramLongPollingBot {
     public String getBotToken() {
         return "1080271817:AAELD57x5s89IVeE-iH3Mof31-zBEoIVhOQ";
