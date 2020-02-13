@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><current><city id="553915" name="Kaluga">
+    <coord lon="36.28" lat="54.53"/><country>RU</country><timezone>10800</timezone>
+    <sun rise="2020-02-13T05:02:11" set="2020-02-13T14:36:14"/></city>
+    <temperature value="-2" min="-2" max="-2" unit="celsius"/>
+    <feelslike value="-5.9" unit="celsius"/>
+    <humidity value="86" unit="%"/>
+    <pressure value="1001" unit="hPa"/>
+    <wind>
+        <speed value="2" unit="m/s" name="Light breeze"/>
+    <gusts/>
+        <direction value="140" code="SE" name="SouthEast"/>
+    </wind>
+    <clouds value="90" name="overcast clouds"/>
+    <visibility value="10000"/>
+    <precipitation mode="no"/>
+    <weather number="804" value="overcast clouds" icon="04n"/>
+    <lastupdate value="2020-02-12T21:47:15"/></current>
